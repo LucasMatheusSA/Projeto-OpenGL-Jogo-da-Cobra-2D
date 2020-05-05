@@ -1,0 +1,3 @@
+Lucas 50
+Teste 30
+Lucas 10
